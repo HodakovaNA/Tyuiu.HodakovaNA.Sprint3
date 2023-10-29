@@ -14,13 +14,13 @@ namespace Tyuiu.HodakovaNA.Sprint3.Task4.V17
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнила: Ходакова Н. А. | АСОиУб-23-2";
+            Console.Title = "Спринт #3 | Выполнила: Ходакова Н. А. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
-            Console.WriteLine("* Выполнила: Ходакова Надежда Антоновна | АСОиУб-23-2                     *");
+            Console.WriteLine("* Выполнила: Ходакова Надежда Антоновна | АСОиУб-23-1                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* На отрезке , где x принимает значения от -5 до 5, вычислить значение    *");
